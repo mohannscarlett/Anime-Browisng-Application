@@ -11,7 +11,7 @@ Java, ORACLE database
 
 To run this project, Java 8+ in addition to Oracle Database 11g+. Download the project from the repository or clone it using the following command:
 
-git clone https://github.com/mohannscarlett/Anime-Browisng-Application.git
+_git clone https://github.com/mohannscarlett/Anime-Browisng-Application.git_
 
 **How to Use?** Firstly, the needed database can be instanciated by the Oracle sql commands found in the repository createDatabase.sql
 

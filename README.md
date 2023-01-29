@@ -1,20 +1,19 @@
 # Anime-Browisng-Application
 
 
-Project Description: Java based desktop application used for browsing an array of different anime by different measures of quality.
+**Project Description:** Java based desktop application used for browsing an array of different anime by different measures of quality.
 
-
-Technologies used to create this application;
+**Technologies used to create this application;**
 
 Java, ORACLE database
 
-Installation & Requirements
+**Installation & Requirements**
 
 To run this project, Java 8+ in addition to Oracle Database 11g+. Download the project from the repository or clone it using the following command:
 
 git clone https://github.com/mohannscarlett/Anime-Browisng-Application.git
 
-How to Use? Firstly, the needed database can be instanciated by the Oracle sql commands found in the repository createDatabase.sql
+**How to Use?** Firstly, the needed database can be instanciated by the Oracle sql commands found in the repository createDatabase.sql
 
 Next you must change the value of the connection object in LoginPage.java to reflect the value that your Oracle user must use to connect to the your.
 ![image](https://user-images.githubusercontent.com/123710621/215301206-94bb7f6b-eb64-4491-ba22-bb29c2cd74a5.png)

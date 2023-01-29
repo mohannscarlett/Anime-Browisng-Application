@@ -15,7 +15,7 @@ _git clone https://github.com/mohannscarlett/Anime-Browisng-Application.git_
 
 **How to Use?** Firstly, the needed database can be instanciated by the Oracle sql commands found in the repository createDatabase.sql
 
-Next you must change the value of the connection object in LoginPage.java to reflect the value that your Oracle user must use to connect to the your.
+Next you must change the value of the connection object in LoginPage.java to reflect the value that your Oracle user must use to connect to your database.
 ![image](https://user-images.githubusercontent.com/123710621/215301206-94bb7f6b-eb64-4491-ba22-bb29c2cd74a5.png)
 
 Then LoginPageOne instance of the StartApp.java (main)[and its related directory] should be run to instanciate a login page. 

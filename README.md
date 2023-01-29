@@ -1,11 +1,15 @@
 # Anime-Browisng-Application
 
 
-**Project Description:** Java based desktop application used for browsing an array of different anime by different measures of quality.
+**Project Description:** 
+
+Java based desktop application used for browsing an array of different anime by different measures of quality.
+
 
 **Technologies used to create this application;**
 
 Java, ORACLE database
+
 
 **Installation & Requirements**
 
@@ -25,6 +29,7 @@ Next the user may signup if they have not already and input a valid username as 
 
 If successful, user will be brought into main application where you can browse anime by different measures of quality. You can also change your user profile picture; user discription; or search for a user that has made an account.
  ![landingpage](https://user-images.githubusercontent.com/123710621/215301446-7688abce-f629-4713-b0c3-a5c6e78b9cab.png)
+
 
 **Build Status:**
 

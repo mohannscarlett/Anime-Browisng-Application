@@ -1,15 +1,11 @@
 # Anime-Browisng-Application
 
 
-**Project Description:** 
-
-Java based desktop application used for browsing an array of different anime by different measures of quality.
-
+**Project Description:** Java based desktop application used for browsing an array of different anime by different measures of quality.
 
 **Technologies used to create this application;**
 
 Java, ORACLE database
-
 
 **Installation & Requirements**
 
